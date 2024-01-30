@@ -8,4 +8,3 @@
  */
 
 rootProject.name = 'Selenium-free-range'
-include('app')
